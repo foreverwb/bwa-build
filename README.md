@@ -1,1 +1,1 @@
-## DEMO
+## bwa build
